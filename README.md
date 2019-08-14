@@ -1,6 +1,6 @@
 # AWS-CodeCommit-CodeBuild-CodeDeploy-CodePipeline
 
-AWS Developer Tools
+AWS Developer Tools - CodeCommit, CodeBuild, CodeDeploy & CodePipeline
 
 1. Implement AWS CodeCommit Service practically and understand in detail about its features.
 
